@@ -15,5 +15,15 @@
     "express": "^4.13.0",
     "supertest": "^1.0.1"
   },
-  "keywords": []
+  "keywords": [
+    "example",
+    "express",
+    "expressjs",
+    "hello",
+    "test",
+    "testing",
+    "useful",
+    "utils",
+    "world"
+  ]
 }
