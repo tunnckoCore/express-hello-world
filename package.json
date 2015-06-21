@@ -1,6 +1,6 @@
 {
   "name": "express-hello-world",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Express.js 'Hello World' middleware, useful for testing",
   "repository": "tunnckoCore/express-hello-world",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
