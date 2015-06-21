@@ -1,0 +1,19 @@
+{
+  "name": "express-hello-world",
+  "version": "0.0.0",
+  "description": "Express.js 'Hello World' middleware, useful for testing",
+  "repository": "tunnckoCore/express-hello-world",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "express": "^4.13.0",
+    "supertest": "^1.0.1"
+  },
+  "keywords": []
+}
