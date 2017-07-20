@@ -11,9 +11,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "assertit": "^0.1.0",
-    "express": "^4.13.0",
-    "supertest": "^1.0.1"
+    "assertit": "0.1.0",
+    "express": "4.15.3",
+    "supertest": "1.2.0"
   },
   "keywords": [
     "example",
